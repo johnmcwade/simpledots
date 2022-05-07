@@ -69,7 +69,7 @@ set shiftround
 set backspace=indent,eol,start
 
 "syntax
-set syntax enable
+syntax enable
 
 "command history
 set history=1000
